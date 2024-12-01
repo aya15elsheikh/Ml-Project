@@ -1,6 +1,5 @@
 # Machine Learning Project
 
-## Overview
 This project for the Ml course in FCAI-HU FAll-2024
 
 ## Team Members
